@@ -13,7 +13,9 @@ Lecture 2 - Group Project
 Lecture 3 - POS Data
 
   Simple_POS_Data : example of simple POS dataset analysis and apriori algorithm
+  
   Grocery_apriori : Apriori algorithm on grocery dataset
+  
   UCI_dataset_apriori : Apriori algorithm applied to UCI Dataset
   
  
